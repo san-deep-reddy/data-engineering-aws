@@ -1,6 +1,6 @@
 # Automated Real Estate Data Pipeline in AWS
 
-## Zillow Real Estate Data Pipeline with Airflow
+## Zillow Real Estate Data Pipeline 
 
 This repository contains the code for a data pipeline that extracts real estate data from the Zillow Rapid API, transforms it, and loads it into a Redshift data warehouse. The pipeline is orchestrated using Airflow.
 
