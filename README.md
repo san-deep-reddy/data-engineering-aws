@@ -11,7 +11,7 @@ This project demonstrates how to build an end-to-end data pipeline using Python,
 1. **Extract:** Fetches real estate data for a specific location from the Zillow Rapid API.
 2. **Transform:** Converts the extracted JSON data into a CSV format. 
 3. **Load:** Uploads the transformed data (CSV) to an S3 bucket.
-4. **Load (Redshift):** Loads the data from S3 into a Redshift data warehouse table for further analysis.
+4. **Load (Redshift):** Loads the data from S3 into a Redshift data warehouse table for further analysis in Quicksight.
 
 ### Code Breakdown
 
